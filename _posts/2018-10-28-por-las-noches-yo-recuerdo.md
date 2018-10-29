@@ -5,4 +5,6 @@ categories: poem
 meta: "Poem"
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce bibendum neque eget nunc mattis eu sollicitudin enim tincidunt. Vestibulum lacus tortor, ultricies id dignissim ac, bibendum in velit.
+![](https://pbs.twimg.com/tweet_video_thumb/DqksxPLWsAAQvL2.jpg)
+
+Cada tanto me acuerdo de todos esos momentos hundido en el terror, interminables noches sin fin, surrealistas ideas de la imaginación tocando la realidad por primera vez. Agradezco haber salido; pero no salí del todo. Todas las noches, dolido en pena, recuerdo, sin poder creer.
