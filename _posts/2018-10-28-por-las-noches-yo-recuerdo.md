@@ -2,7 +2,6 @@
 layout: post
 title: "Por las noches yo recuerdo"
 categories: poem
-author: "Alan Becker Capuyá"
 meta: "Poem"
 ---
 
