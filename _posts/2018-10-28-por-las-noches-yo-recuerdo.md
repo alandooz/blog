@@ -19,8 +19,7 @@ surrealistas ideas de la imaginación
 
 tocando la realidad por primera vez.
 
-
-
+<br>
 
 Agradezco haber salido; pero no salí del todo.
 
