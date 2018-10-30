@@ -5,9 +5,7 @@ categories: poem
 meta: "Poem"
 ---
 
-<center>
 ![](https://pbs.twimg.com/tweet_video_thumb/DqksxPLWsAAQvL2.jpg)
-</center>
 
 Cada tanto me acuerdo de todos esos momentos
 
