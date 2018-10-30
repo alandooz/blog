@@ -7,7 +7,9 @@ meta: "Poem"
 
 ![](https://pbs.twimg.com/tweet_video_thumb/DqksxPLWsAAQvL2.jpg)
 
-Cada tanto me acuerdo de todos esos momentos
+Cada tanto me acuerdo 
+
+de todos esos momentos
 
 hundido en el terror,
 
