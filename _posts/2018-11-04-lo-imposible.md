@@ -24,4 +24,4 @@ Y tu sonrisa...
 
 <br>
 
-                               ...lo imposible.
+                         ...lo imposible.
