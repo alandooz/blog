@@ -5,7 +5,7 @@ categories: poem
 meta: "Poem"
 ---
 
-![]()
+![](https://66.media.tumblr.com/tumblr_lq3ymtPZBF1qiwgy7o1_250.jpg)
 
 <br>
 Tus labios
