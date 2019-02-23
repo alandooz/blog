@@ -3,7 +3,6 @@ layout: post
 title: "Por las noches yo recuerdo"
 categories: poem
 meta: "Poem"
-date: 2018-10-28
 ---
 
 ![](https://media.giphy.com/media/3o7TKO0X6Qqn1fuBUY/giphy.gif)
