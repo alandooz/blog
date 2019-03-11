@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Lo imposible"
-categories: poem
+categories: poems
 ---
 
 ![](https://66.media.tumblr.com/tumblr_lq3ymtPZBF1qiwgy7o1_250.jpg)

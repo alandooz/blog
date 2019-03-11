@@ -6,7 +6,6 @@ p, blockquote, pre, hr,
 dl, dd, ol, ul, figure {
   margin: 0;
   padding: 0;
-  scroll-behavior: smooth;
 }
 
 
@@ -27,6 +26,7 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
+  scroll-behavior: smooth;
 }
 
 
