@@ -193,8 +193,8 @@
   list-style: none;
 
   > li {
-    margin-bottom: $spacing-unit;
-    display: initial;
+    // margin-bottom: $spacing-unit;
+    display: inline;
   }
 }
 
