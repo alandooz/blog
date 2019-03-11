@@ -2,7 +2,6 @@
 layout: post
 title: "Checkbox with HTML and CSS"
 categories: tech
-meta: "Tech"
 ---
 
 # Checkbox with HTML and CSS

@@ -2,7 +2,6 @@
 layout: post
 title: "Automatic Deployment on GitHub Pages | with Travis CI and VueJs"
 categories: tech
-meta: "Tech"
 ---
 
 # Automatic Deployment on GitHub Pages | with Travis CI and VueJs

@@ -2,7 +2,6 @@
 layout: post
 title: "Por las noches yo recuerdo"
 categories: poem
-meta: "Poem"
 ---
 
 ![](https://media.giphy.com/media/3o7TKO0X6Qqn1fuBUY/giphy.gif)

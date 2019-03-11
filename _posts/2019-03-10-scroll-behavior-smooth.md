@@ -2,7 +2,6 @@
 layout: post
 title: "Scroll Behavior Smooth"
 categories: tech
-meta: "Tech"
 ---
 
 # Scroll Behavior Smooth

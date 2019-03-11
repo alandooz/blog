@@ -2,7 +2,6 @@
 layout: post
 title: "Por favor, llévame ya."
 categories: poem
-meta: "Poem"
 ---
 
 ![](https://pinakipratihar.files.wordpress.com/2013/10/death-of-a-poetquot-by-loui-jover-redbubble-1362432075_b2.jpg)
