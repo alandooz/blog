@@ -189,12 +189,22 @@
 }
 
 .post-list {
-  margin-left: 0;
   list-style: none;
 
   > li {
-    // margin-bottom: $spacing-unit;
     display: flex;
+
+    > h3 {
+      display: flex;
+      align-items: center;
+      margin-left: 5px;
+
+      > span {
+        margin-left: 5px;
+      }
+
+    }
+
   }
 }
 
