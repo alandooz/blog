@@ -4,8 +4,10 @@ title: "Scroll Behavior Smooth"
 categories: tech
 ---
 
-# Scroll Behavior Smooth
+Add the following on your CSS:
 
 ```css
-scroll-behavior: smooth;
+html{
+    scroll-behavior: smooth;
+}
 ```
