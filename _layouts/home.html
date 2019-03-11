@@ -11,7 +11,7 @@ layout: default
 
   {%- for category in site.categories -%}
   {%- if category[1].size > 0 -%}
-    <h2 class="post-list-heading">{{ category[0] | capitalize }}</h2>
+    <h2 class="post-list-heading" id="{{ category[0] }}">{{ category[0] | capitalize }}</h2>
     <ul class="post-list">
       {%- for post in category[1] -%}
       <li>
