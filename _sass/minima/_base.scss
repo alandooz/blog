@@ -13,6 +13,9 @@ dl, dd, ol, ul, figure {
 /**
  * Basic styling
  */
+html {
+  scroll-behavior: smooth;
+}
 body {
   font: $base-font-weight #{$base-font-size}/#{$base-line-height} $base-font-family;
   color: $text-color;
@@ -26,7 +29,6 @@ body {
   display: flex;
   min-height: 100vh;
   flex-direction: column;
-  scroll-behavior: smooth;
 }
 
 
