@@ -4,7 +4,7 @@ title: "La única verdad"
 categories: poems
 ---
 
-![](/2019-05-21-la-unica-verdad.jpg)
+![](/blog/img/2019-05-21-la-unica-verdad.jpg)
 
 <br>
 No te voy a mentir, mis ganas de hablarte no son menores. Pero tampoco hace falta decir, que mi orgullo (y mi dolor) son mayores.
