@@ -9,14 +9,27 @@ datetime: "2019-05-27T00:33:00.000Z"
 
 <br>
 
-Quien diría que mientras yo escribo esto, con lágrimas en mis ojos, hinchados de tanto llorar...
+Quien diría que mientras yo escribo esto,
+con lágrimas en mis ojos,
+hinchados de tanto llorar...
 
-Quien diría que mientras yo escribo esto, respirando fuerte, poco, a punto de explotar...
+Quien diría que mientras yo escribo esto,
+respirando fuerte, poco,
+a punto de explotar...
 
-Quien diría que mientras yo escribo esto, con un dolor inexplicable en el pecho, con el corazón marchitado...
+Quien diría que mientras yo escribo esto,
+con un dolor inexplicable en el pecho,
+con el corazón marchitado...
 
-Quien diría, que mientras yo escribo esto, vos estás con él, sonriendo, abrazados, dándose amor.
+Quien diría, que mientras yo escribo esto,
+vos estás con él,
+sonriendo,
+abrazados,
+dándose amor...
 
-Quién diría, que mientras ustedes hacen eso, yo estoy acá, escribiendo esto.
+Quién diría,
+que mientras ustedes hacen eso,
+yo estoy acá,
+escribiendo esto...
 
 Quien diría...
